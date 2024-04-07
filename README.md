@@ -1,2 +1,2 @@
-# Galina-Rodionova-QA-Galina-Rodionova-QA.github.io
+# Galina-Rodionova-QA.github.io
 Сайт визитка HTML, CSS
